@@ -3,7 +3,7 @@ using namespace std;
 
 void print()
 {
-    cout<<"hello world";
+    console.log<<"hello world";
 }
 int main()
 {
